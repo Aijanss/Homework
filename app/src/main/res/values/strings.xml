@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geek Tech</string>
+    <string name="login_hint">Login</string>
+    <string name="Password_hint">Password</string>
+    <string name="Enter_hint">Enter</string>
+    <string name="geek_tech">Welcome to Geek Tech </string>
+    <string name="Log_in_error">Wrong password or Login</string>
+    <string name="Error">Wrong password or login</string>
+</resources>
